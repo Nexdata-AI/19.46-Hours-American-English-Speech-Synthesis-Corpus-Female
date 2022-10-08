@@ -1,8 +1,10 @@
 # 19.46-Hours-American-English-Speech-Synthesis-Corpus-Female
-https://www.datatang.ai/datasets/935
+
 
 ## Description
-Female audio data of American English,. It is recorded by American English native speaker, with authentic accent and sweet sound. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+Female audio data of American English. It is recorded by American English native speaker, with authentic accent and sweet sound. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+
+For more details, please refer to the link: https://bit.ly/3SftY1T
 
 ## Format
 44,100Hz, 16bit, uncompressed wav, mono channel.
@@ -27,3 +29,6 @@ American English
 
 ## Application scenarios
 speech synthesis
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
