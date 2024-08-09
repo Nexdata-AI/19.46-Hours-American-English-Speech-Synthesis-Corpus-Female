@@ -4,7 +4,7 @@
 ## Description
 Female audio data of American English. It is recorded by American English native speaker, with authentic accent and sweet sound. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/935?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 ## Format
